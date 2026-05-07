@@ -110,6 +110,27 @@
             "social": {
               "whatsapp": "https://wa.me/919920115711"
             }
-          }
+          },
+            "orven_studios": {
+              "name": "Orven Studios",
+              "tagline": "Premium Podcast & Video Production Studio",
+              "description": "Modern podcast and video production studio with premium interiors, professional lighting, and high-quality camera setups.",
+              "phone": "+91-99875-17851",
+              "address": "Mainframe Building, A-223, Royal Palms, Aarey Milk Colony, Goregaon East, Mumbai, Maharashtra 400065",
+              "rating": "5.0",
+              "reviews": 4,
+              "heroSubtitle": "Shoot Premium Content That Stands Out.",
+              "showreelVideo": "/media/mac-vid.mp4",
+              "services": [
+                "Podcast Setup",
+                "Video Production",
+                "Photo Shoots",
+                "Studio Rental"
+              ],
+              "timings": "Open 24 Hours",
+              "social": {
+                "whatsapp": "https://wa.me/919987517851"
+              }
+            }
     }
 

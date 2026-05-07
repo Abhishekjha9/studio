@@ -49,5 +49,26 @@
       "linkedin": "https://linkedin.com/",
       "youtube": "https://youtube.com/"
     }
+  },
+    "rr_studio": {
+      "name": "R R Studio",
+      "tagline": "Professional Recording & Dubbing Studio",
+      "description": "Premium recording studio for music, dubbing, and audio production.",
+      "phone": "+91-97682-43777",
+      "address": "1st Floor, Reliable Business Centre, Oshiwara, Andheri West, Mumbai, Maharashtra 400102",
+      "rating": "4.9",
+      "reviews": 37,
+      "heroSubtitle": "Record. Mix. Create.",
+      "showreelVideo": "/media/mac-vid.mp4",
+      "services": [
+        "Music Recording",
+        "Dubbing",
+        "Audio Mixing",
+        "Podcast Recording"
+      ],
+      "social": {
+        "whatsapp": "https://wa.me/919768243777"
+      }
+    }
   }
-}
+

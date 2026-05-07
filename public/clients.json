@@ -90,6 +90,26 @@
           "social": {
             "whatsapp": "https://wa.me/919819499618"
           }
-        }
+        },
+          "audiophile_studio": {
+            "name": "Audiophile Studio",
+            "tagline": "Creative Music Production Studio",
+            "description": "Professional music production and recording studio with a creative atmosphere and modern aesthetics.",
+            "phone": "+91-99201-15711",
+            "address": "Manchubhai Rd, Mahavir Nagar, Malad East, Mumbai, Maharashtra 400097",
+            "rating": "4.8",
+            "reviews": 6,
+            "heroSubtitle": "Feel the Sound. Create the Vibe.",
+            "showreelVideo": "/media/mac-vid.mp4",
+            "services": [
+              "Music Production",
+              "Recording",
+              "Audio Mixing"
+            ],
+            "timings": "Open · Closes 7 PM",
+            "social": {
+              "whatsapp": "https://wa.me/919920115711"
+            }
+          }
     }
 

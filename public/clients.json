@@ -69,6 +69,27 @@
       "social": {
         "whatsapp": "https://wa.me/919768243777"
       }
+    },
+        "madbus_studios": {
+          "name": "MadBus Studios",
+          "tagline": "Industry Standard Recording Studio",
+          "description": "Professional recording studio with premium instruments, microphones, and sound engineers.",
+          "phone": "+91-98194-99618",
+          "address": "Royal Palm, 502, Ahimsa Marg, opposite AHIMSA HEIGHTS, Malad West, Mumbai, Maharashtra 400064",
+          "rating": "4.9",
+          "reviews": 107,
+          "heroSubtitle": "Create Music Without Limits.",
+          "showreelVideo": "/media/mac-vid.mp4",
+          "services": [
+            "Music Recording",
+            "Audio Production",
+            "Mixing & Mastering",
+            "Instrument Recording"
+          ],
+          "timings": "Open 24 Hours",
+          "social": {
+            "whatsapp": "https://wa.me/919819499618"
+          }
+        }
     }
-  }
 
